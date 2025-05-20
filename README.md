@@ -19,11 +19,7 @@ Este projeto é uma Pokédex interativa desenvolvida com HTML, CSS e JavaScript,
 
 ## Como executar
 
-Acesse diretamente pelo navegador:
-
-[Abra a Pokédex clicando aqui](./index.html)
-
-Ou, se preferir, basta baixar o projeto e abrir o arquivo `index.html` no seu navegador.
+Acesse diretamente pelo navegador, atráves no link fornecido.
 
 ## Estrutura do Projeto
 
@@ -38,13 +34,7 @@ assets/
     main.js
     poke-api.js
     pokemon-model.js
-```
 
-## Créditos
-
-Projeto desenvolvido como desafio da DIO (Digital Innovation One) para a Trilha JS Developer.
-
----
 
 Sinta-se à vontade para contribuir ou sugerir melhorias!
 
