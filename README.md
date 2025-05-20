@@ -36,5 +36,3 @@ assets/
     pokemon-model.js
 
 
-Sinta-se à vontade para contribuir ou sugerir melhorias!
-
